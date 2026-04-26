@@ -348,8 +348,8 @@ export default function LazyGeniusLanding() {
           "월 100만자, 사실상 무제한 번역",
           "외계어를 제외하고 번역 가능",
           "깔쌈한 설정 페이지 별도 지원",
-          "✨ 비싼 AI 번역 지원"
-          "P0으로 이메일 지원"
+          "✨ 비싼 AI 번역 지원",
+          "P0으로 이메일 지원",
         ],
         enterpriseFeatures: [
           "어드밴스드의 모든 기능",
