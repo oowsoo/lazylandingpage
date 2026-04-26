@@ -299,10 +299,10 @@ export default function LazyGeniusLanding() {
       hero: {
         badge: "슬랙 사용하세요?",
         headline1: "번역기 돌리러 가지 마세요",
-        headline2: "알아서 번역되니까요 😏",
-        subheadline1: "21세기에도 일일히 번역기를 돌린다?",
-        subheadline2: "이젠 슬랙에 메시지만 치면 된다!",
-        ctaStart: "슬랙에서 편해지기",
+        headline2: "번역은 알아서 되니까요",
+        subheadline1: "21세기에도 일일히 복붙을 한다?",
+        subheadline2: "메시지만 쳐도 알아서 번역해주는 똑똑이 데려가세요",
+        ctaStart: "슬랙에 똑똑이 데려가기",
         caption: "☕️ 커피 두 잔 값으로 복붙 지옥에서 벗어나세요",
       },
       features: {
@@ -310,9 +310,9 @@ export default function LazyGeniusLanding() {
         title2: "복붙 지옥에서 벗어나세요",
         subtitle: "번역기 돌리는 게 귀찮아서 만들었습니다",
         feature1Title: "번역 품질 걱정마세요",
-        feature1Desc: "고객님이 쓰시는 거 우리도 씁니다",
-        feature2Title: "그리고 메시지를 보내봐요",
-        feature2Desc: "순식간에 번역 메시지가 올라와요",
+        feature1Desc: "고객님이 쓰시는 거, 저희도 씁니다",
+        feature2Title: "메시지 한 번 보내보세요",
+        feature2Desc: "순식간에 번역이 올라옵니다",
         feature3Title: "못난이 UI 보는 것도 고통",
         feature3Desc: "자랑 좀 할게요. 가독성 좋은 예쁜 UI.",
         feature4Title: "의심 많은 당신을 위한 기능",
@@ -320,7 +320,7 @@ export default function LazyGeniusLanding() {
       },
       howItWorks: {
         title: "딱 1분만 투자하세요",
-        subtitle: "사실, 1분도 안 걸릴지도 몰라요",
+        subtitle: "1분을 투자하면 1년이 편해져요",
         step1Title: "초대만 하세요",
         step1Desc: "채널에 번역봇을 초대만 하세요",
         step2Title: "아무 언어로 말해요",
@@ -526,7 +526,7 @@ export default function LazyGeniusLanding() {
       price: "별도 문의",
       period: "",
       features: currentLang.pricing.enterpriseFeatures,
-      cta: language === 'ko' ? 'Fit하게 맞춰드려요' : 'Contact Sales',
+      cta: language === 'ko' ? '문의하기' : 'Contact Sales',
     },
   ];
 
