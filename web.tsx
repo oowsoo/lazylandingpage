@@ -291,22 +291,22 @@ export default function LazyGeniusLanding() {
   const t = {
     ko: {
       nav: {
-        features: "이런걸 팔아요",
-        pricing: "품위유지비",
+        features: "이런 걸 팔아요",
+        pricing: "당신의 품위유지비",
         signIn: "로그인",
-        startFree: "무료로 시작하기",
+        startFree: "우아한 삶 시작하기",
       },
       hero: {
-        badge: "게으른 워크플로우, 천재적인 결과",
+        badge: "슬랙 사용하세요?",
         headline1: "번역기 돌리지 마세요",
-        headline2: "대신 복붙해드릴게요",
+        headline2: "슬랙에 메시지만 치세요",
         subheadline1: "21세기에도 일일히 번역기를 돌린다?",
-        subheadline2: "슬랙에 메시지만 쳐도 수족이 번역해 드립니다.",
-        ctaStart: "무료로 시작하기",
+        subheadline2: "20세기적 노동을 줄여드립니다",
+        ctaStart: "21세기 방식으로 일하기",
         caption: "☕️ 커피 두 잔 값으로 복붙 지옥에서 벗어나세요",
       },
       features: {
-        title1: "☕️ 커피 두 잔 값으",
+        title1: "☕️ 커피 두 잔 값으로",
         title2: "복붙 지옥에서 벗어나세요",
         subtitle: "번역기 돌리는 게 귀찮아서 만들었습니다",
         feature1Title: "번역 품질 걱정마세요",
@@ -315,7 +315,7 @@ export default function LazyGeniusLanding() {
         feature2Desc: "우리팀이 번역기 돌리는 시간보다 빠릅니다!",
         feature3Title: "Slack UI 최적화",
         feature3Desc: "못난이 UI 보는 것도 고통이에요. Lazy하지 못해요.",
-        feature4Title: "의심에 발 뻗고 잘 수 없는 당신을 위해",
+        feature4Title: "의심 많은 당신을 위한 기능",
         feature4Desc: "언제든지 원문을 볼 수 있어요",
       },
       howItWorks: {
@@ -325,7 +325,7 @@ export default function LazyGeniusLanding() {
         step1Desc: "/invite @Lazy 채널에 번역봇을 초대만 하세요",
         step2Title: "전세계 언어 지원",
         step2Desc: "우주인을 제외하고 번역 가능해요.",
-        step3Title: "멀리 나가지 마세요",
+        step3Title: "슬랙에서 나가지 마세요",
         step3Desc: "메시지를 전송하면 따라오는 자동 번역!",
       },
       pricing: {
@@ -339,12 +339,14 @@ export default function LazyGeniusLanding() {
         mostPopular: "가장 인기",
         getStarted: "시작하기",
         basicFeatures: [
+          "소규모팀 추천 플랜",
           "월 40만자, 펑펑 쓰세요",
           "심플하게 한 쌍의 언어 번역 지원",
           "초스피드 번역 배달",
           "이메일 지원",
         ],
         advancedFeatures: [
+          "25명 이상 추천 플랜",
           "월 100만자, 사실상 무제한 번역",
           "외계어를 제외하고 번역 가능",
           "깔쌈한 설정 페이지 별도 지원",
